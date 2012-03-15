@@ -1,7 +1,7 @@
 Thayer Terminal theme
 =================================
 
-A Terminal.app theme ported from Thayer's Xdefaults with a few subtle changes.
+A Terminal.app theme ported from Thayer's [Xdefaults](http://dotfiles.org/~thayer/.Xdefaults) with a few subtle changes.
 
 ![preview](http://cl.ly/0n3H3B3X0B430b2n1747/thayer-preview.png)
 
